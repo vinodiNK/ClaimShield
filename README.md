@@ -1,4 +1,4 @@
-"# ClaimShield" 
+# ClaimShield – AI Insurance Fraud Detection System
 
 ### AI-powered insurance claim verification platform designed to detect fraudulent claims using Machine Learning and Natural Language Processing (NLP).
 
